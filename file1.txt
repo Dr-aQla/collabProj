@@ -1,2 +1,6 @@
 first line
+<<<<<<< HEAD
 second line
+=======
+wefpiuhfwpoefuhqwfiowufh
+>>>>>>> 079b1249809cea79de32f83c261f0d67d4109581
